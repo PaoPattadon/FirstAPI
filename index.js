@@ -28,7 +28,7 @@ else {console.log("Failed");}
 //         res.send("Clear all DB success")
 //     })
 // });
-
+//test2
 //test
 
 app.get('/find_by_id', (req, res) => {
